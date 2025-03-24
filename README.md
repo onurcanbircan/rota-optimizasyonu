@@ -26,7 +26,6 @@ Projenin temel hedefleri:
 ### Kütüphaneler:
 - **collections**: BFS algoritması için kuyruk yapısının oluşturulmasında kullanıldı.
 - **heapq**: A* algoritması için öncelik kuyruğu oluşturulmasında kullanıldı.
-- **networkx** ve **matplotlib**: Metro ağını görselleştirmek için kullanıldı.
 
 ---
 
