@@ -62,26 +62,6 @@ Projenin temel hedefleri:
 
 ---
 
-## 🌟 Projeyi Geliştirme Fikirleri
-
-Projeyi daha etkileyici hale getirmek için aşağıdaki geliştirmeler yapılabilir:
-1. **Heuristik Eklenmesi (A*):** Algoritmaya tahmin (heuristik) ekleyerek performansı artırabilirsiniz.
-2. **Grafiksel Arayüz:** Kullanıcıların metro ağını görselleştirebileceği bir arayüz eklenebilir.
-3. **Gerçek Zamanlı Veri Entegrasyonu:** Metro trafiği ve yoğun saatleri simüle etmek için dinamik veriler eklenebilir.
-4. **Sesli Komut:** Kullanıcıların sesli komutlarla rota sorgulamasına olanak sağlayabilirsiniz.
-
----
-
-## 📂 GitHub'da Paylaşma
-
-Bu projeyi GitHub üzerinde paylaşmak için aşağıdaki adımları izleyebilirsiniz:
-1. Yeni bir GitHub repository oluşturun.
-2. Repository'yi "Public" olarak ayarlayın.
-3. Kodunuzu ve README.md dosyanızı yükleyin.
-4. Açıklayıcı commit mesajları yazın.
-
----
-
 ## 💡 Faydalı Kaynaklar
 
 ### BFS Algoritması:
